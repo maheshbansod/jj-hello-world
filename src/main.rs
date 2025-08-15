@@ -6,6 +6,7 @@
 /// the entry point where it all begins
 fn main() {
     print("Hello, world!");
+    print("Goodbye, world!");
 }
 
 /// A function that prints a message
