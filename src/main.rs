@@ -2,6 +2,7 @@
 ///
 /// Probably the best implementation of hello world this
 /// world's ever known
+
 fn main() {
     print("Hello, world!");
 }
