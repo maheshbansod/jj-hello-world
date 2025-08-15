@@ -4,7 +4,6 @@
 /// world's ever known
 fn main() {
     print("Hello, world!");
-    print("Goodbye, world!");
 }
 
 /// A function that prints a message
