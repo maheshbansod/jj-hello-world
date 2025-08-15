@@ -3,8 +3,10 @@
 /// Probably the best implementation of hello world this
 /// world's ever known
 
+/// the entry point where it all begins
 fn main() {
     print("Hello, world!");
+    print("Goodbye, world!");
 }
 
 /// A function that prints a message
